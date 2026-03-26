@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 320" role="img" aria-labelledby="title desc">
+  <title id="title">Портрет разработчика</title>
+  <desc id="desc">Минималистичная иллюстрация профиля для портфолио.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#dbeafe"/>
+      <stop offset="100%" stop-color="#bfdbfe"/>
+    </linearGradient>
+    <linearGradient id="shirt" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#1d4ed8"/>
+      <stop offset="100%" stop-color="#1e3a8a"/>
+    </linearGradient>
+  </defs>
+  <rect width="320" height="320" rx="160" fill="url(#bg)"/>
+  <circle cx="160" cy="122" r="62" fill="#f2c9a0"/>
+  <path d="M95 260c11-44 40-68 65-78h0c28 9 54 34 65 78z" fill="url(#shirt)"/>
+  <path d="M106 118c5-43 34-71 69-71 36 0 63 26 69 68-14-10-31-15-51-15-34 0-61 13-87 18z" fill="#1f2937"/>
+  <circle cx="136" cy="126" r="6" fill="#1f2937"/>
+  <circle cx="184" cy="126" r="6" fill="#1f2937"/>
+  <path d="M140 154c12 11 29 11 41 0" fill="none" stroke="#9a3412" stroke-linecap="round" stroke-width="6"/>
+  <path d="M128 201c8 14 19 25 32 25s24-11 32-25" fill="#bfdbfe" opacity="0.55"/>
+</svg>
